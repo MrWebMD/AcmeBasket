@@ -2,8 +2,6 @@
 
 namespace Acme\Basket\PriceAdjustment;
 
-use Acme\Basket\CatalogProduct;
-
 /**
  * When an offer is applied, the price of the product may manipulate in various ways
  * The adjustment type is the interface that defines the methods that should

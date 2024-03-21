@@ -2,7 +2,7 @@
 
 This project is an implementation of a basket system for Acme Widget Co Sales System, providing features for product catalogs, delivery charge rules and special offers.
 
-The project's goal is to be easy, performant, extensible, and platform agnostic while meeting the criteria specified in the test.
+The project's goal is to be easy, performant, extensible, and platform agnostic while meeting the criteria specified in the test. There is a large focus on code quality and readability. The code is heavily documented and contains examples that make it easier for new developers to understand and extend the codebase. Examples are included in the README and the tests which cover 100% of the codebase.
 
 ## Assumptions
 

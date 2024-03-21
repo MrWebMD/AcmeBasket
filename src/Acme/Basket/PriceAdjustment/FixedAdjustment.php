@@ -2,8 +2,6 @@
 
 namespace Acme\Basket\PriceAdjustment;
 
-use Acme\Basket\CatalogProduct;
-
 /**
  * Apply a fixed adjustment to some total. ex. +$15 or -$5
  * @packageAcme\Basket\PriceAdjustment
